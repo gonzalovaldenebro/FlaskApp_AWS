@@ -12,8 +12,7 @@ The app has two databases:
 
 SQL Database: The SQL database is hosted on an RDS instance that was created for this purpose. It contains the famous world database.
 NoSQL Database: The NoSQL database is hosted on a DynamoDB instance that was created for this purpose. It contains user input on their trips.
-Hosting
-The app is hosted on GitHub and is publicly accessible at https://github.com/gonzalovaldenebro/FlaskApp_AWS.
+Hosting.
 
 ## Templates
 The templates folder contains HTML files for each page. These templates allow users to input data and query the databases.
